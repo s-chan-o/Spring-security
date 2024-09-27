@@ -11,7 +11,7 @@ public class JoinController {
     @GetMapping("/join")
     public String joinP() {
 
-        return "join";
+        return "join.html";
     }
 
     @PostMapping("/joinProc")

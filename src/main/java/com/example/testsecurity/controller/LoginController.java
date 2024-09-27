@@ -10,6 +10,6 @@ public class LoginController {
     public String loginP(){
 
 
-        return "login";
+        return "login.html";
     }
 }
